@@ -4,6 +4,8 @@
     "email": "hello@itsmechristian.co.uk"
   },
   "records": {
-    "A": ["89.58.11.12"]
+    "A": [
+      "89.58.11.12"
+    ]
   }
 }
